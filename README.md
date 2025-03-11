@@ -23,9 +23,19 @@ Capability maturity model integration:  Framework for improving process maturity
 It defines project boundaries, list deliverables and objectives.
 WBS is  project management tool that breaks down a project's work into smaller more manageable components.  It is useful because it improves planning by identifying all the work that needs to be done .
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+A detailed project schedule proides a clear visual representation of the project's timeline, outlines the beginning and finishing dates for each task. Gantt chart tracks progress and identify delays.It integrates scope, schedule and cost performance.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+It aims to reduce human error and freeing up time for more strategic work, and facilitating the sharing of information between individuals and groups.  To enhance efficient and secure methods for storing and retrieving data.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+It helps the developers focus on creating solutions that address the problems, it prevents the scope screep where the project expand beyond the initial goals.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+Our software is designed to simplify and strengthen the way businessmen connect with their clients.
 ## 11. What are the main features or functionalities that make your software stand out?
+Asynchronous workflow hub
+Contextual communication
+Visual progress dashboard with time zone adaptation.
+Knowledge repository integration.
 ## 12. What data is available regarding the market size and growth potential for your software?
+The current market size and projected growth by use of upto date statistics.
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Through discussing relevant trends that make an opportune time for your software this could include technological advancements, regulatory changes, or shifts in customer behaviour.
